@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-    <img alt="mingtocat" title="mingtocat" src="./preview.gif" width="60%" />
+    <img alt="mingtocat" title="mingtocat" src="./emperors/origin.svg" width="60%" />
 </p>
 
 <p align="center">
