@@ -8,8 +8,14 @@ To use this template:
 
 1. Just start to [**GENERATE**](https://github.com/aleen42/markdown-only/generate) it. (Notice: you can also use it on the repository page on GitHub.)
 2. Deploy the GitHub page inside the setting of your new repository.
-3. Choose light / dark mode in the file `_config.yml`. (**dark** mode by default in this template)
-4. Feel free to write your first markdown file: **README.md**.
+3. Feel free to write your first markdown file: **README.md**.
+
+### Variables
+
+Current supported configure variables of this theme:
+
+- **`color-mode`**: specify the light / dark mode you intent to use. (`dark` by default)
+- **`theme-color`**: specify the theme color meta. (`#1e2327` by default)
 
 ### :fuelpump: How to contribute
 
