@@ -12,7 +12,7 @@
 
 <br />
 
-![mingtocat](https://aleen42.github.io/badges/src/github.svg) ![](https://aleen42.github.io/badges/src/photoshop.svg) ![](https://aleen42.github.io/badges/src/illustrator.svg)
+![mingtocat](https://badges.aleen42.com/src/github.svg) ![](https://badges.aleen42.com/src/photoshop.svg) ![](https://badges.aleen42.com/src/illustrator.svg)
 
 **Mingtocat** is a designed Octocat with clothing of a series of roles in the Ming Dynasty, like emperors, generals or even a common person and what we saw above is one of the informal uniforms. As an open-source, Mingtocat is allowed to download in any picture format: **SVG** / **PNG** / **GIF**, but **business using must be refused**. What the purpose of designing is to make the history of Chinese clothing known by more people all over the world.
 
