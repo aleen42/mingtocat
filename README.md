@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-    <img alt="mingtocat" title="mingtocat" src="./emperors/origin.svg" width="60%" />
+    <img alt="mingtocat" title="mingtocat" src="./emperors/origin.png" width="60%" />
 </p>
 
 <p align="center">
@@ -14,14 +14,13 @@
 
 ![mingtocat](https://aleen42.github.io/badges/src/github.svg) ![](https://aleen42.github.io/badges/src/photoshop.svg) ![](https://aleen42.github.io/badges/src/illustrator.svg)
 
-**Mingtocat** is a designed Octocat with clothing of a series of roles in the Ming Dynasty, like emperors, generals or even a common person and what we saw above is one of the informal uniforms. As an open source, Mingtocat is allowed to download in any picture format: **SVG** | **PNG** | **GIF**, but **business using must be refused**. What the purpose of designing is to make the history of Chinese clothing known by more people all over the world.
+**Mingtocat** is a designed Octocat with clothing of a series of roles in the Ming Dynasty, like emperors, generals or even a common person and what we saw above is one of the informal uniforms. As an open source, Mingtocat is allowed to download in any picture format: **SVG** / **PNG** / **GIF**, but **business using must be refused**. What the purpose of designing is to make the history of Chinese clothing known by more people all over the world.
 
 
 ### 1. Mingtocat as an emperor clothing with original suits
 
-- [**SVG**](https://aleen42.github.io/mingtocat/emperors/original_suit.svg)
-- [**PNG**](https://aleen42.github.io/mingtocat/emperors/original_suit.png)
-- [**GIF**](https://aleen42.github.io/mingtocat/emperors/original_suit.gif)
+- [**SVG**](./emperors/origin.svg)
+- [**PNG**](./emperors/origin.png)
 
 According to some study, the clothing shown above arose during the later stage of the Ming. In this stage, color of the clothing was not only set as yellow, what we normally see. Not only the color, but also the usage of dermatoglyphic pattern (紋樣) has changed into various. This clothing has been designed based on the artifacts drawn in the picture, named "Ru Bi (入跸圖)". The whole clothing has been divided into five parts: the crown, the robe (袍), the inside clothing (中衣), the belt (帶), and the boots.
 
@@ -47,4 +46,4 @@ The boots would always be black boots named "Zao Boots (皂靴)".
 
 ### References
 
-[1] 《Q版大明衣冠图志》，董进（撷芳主人），2014
+\[1] 《Q版大明衣冠图志》，董进（撷芳主人），2014
