@@ -12,3 +12,13 @@
 .profile-color-modes-toggle:focus {
   outline: none;
 }
+
+.footer .footprint {
+  span {
+    opacity: .5;
+  }
+
+  a {
+    opacity: 1;
+  }
+}
