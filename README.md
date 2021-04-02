@@ -23,6 +23,21 @@ Current supported configure variables of this theme:
 - **`color-mode`**: specify the light / dark mode you intent to use. (`dark` by default)
 - **`theme-color`**: specify the theme color meta. (`#1e2327` by default)
 
+### FAQ
+
+As we use jekyll to build sites, it should use [Rouge](https://github.com/rouge-ruby/rouge) to highlight syntax of code snippets and it is different from the highlighter of GitHub. It means that there should be various highlights of the same code like the following:
+
+```js
+const data = function () { 
+    // ...
+    return {
+        'markdown-only': { key: 'value'},
+    };
+};
+```
+
+To try to eliminate the differences, I will update [the adapter](https://github.com/aleen42/github-syntax-theme-generator) according to some situations.
+
 ### :fuelpump: How to contribute
 
 Have an idea? Found a bug? See [how to contribute](https://wiki.aleen42.com/contribution.html).
