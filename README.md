@@ -47,3 +47,7 @@ The boots would always be black boots named "Zao Boots (皂靴)".
 ### References
 
 \[1] 《Q版大明衣冠图志》，董进（撷芳主人），2014
+
+*Note: if you like this project, feel free to buy me a swimming chance:*
+
+[![badges](https://badges.aleen42.com/src/paypal.svg)](http://paypal.me/aleen42) [![badges](https://badges.aleen42.com/src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/aleen42)
